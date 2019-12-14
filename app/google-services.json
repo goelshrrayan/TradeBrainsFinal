@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880926268294",
+    "firebase_url": "https://tradebrains-accd8.firebaseio.com",
+    "project_id": "tradebrains-accd8",
+    "storage_bucket": "tradebrains-accd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880926268294:android:0728dd56ab83510cc6aa07",
+        "android_client_info": {
+          "package_name": "trade.example.application.tradebrains"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880926268294-5lcr8f0p8emliajo7iojipc3nijeef46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLSWQ3omNCEApiqToD5O-DBdlJ9ozQ-W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880926268294-5lcr8f0p8emliajo7iojipc3nijeef46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
